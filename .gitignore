@@ -1,0 +1,4 @@
+.vscode/
+__pycache__/
+crawl.py
+debug.py
